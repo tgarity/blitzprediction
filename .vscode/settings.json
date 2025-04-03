@@ -1,0 +1,72 @@
+{
+  "jupyter.kernels.filter": [
+    {
+      "path": "/Users/thomasgarity/.pyenv/versions/3.12.7/bin/python",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/Users/thomasgarity/.pyenv/versions/3.8.20/bin/python",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/Users/thomasgarity/.local/share/virtualenvs/ac215_burningbush-kan0a_Id/bin/python",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/Users/thomasgarity/.local/share/virtualenvs/api_service-Lcvx6v0g/bin/python",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/Users/thomasgarity/opt/anaconda3/bin/python",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/Users/thomasgarity/micromamba/envs/cs109a/bin/python",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/Users/thomasgarity/.local/share/virtualenvs/deploy-model-rarTMu9V/bin/python",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/Users/thomasgarity/.local/share/virtualenvs/linting-3YEhKHip/bin/python",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/Users/thomasgarity/.local/share/virtualenvs/mega-pipeline-eAAbr3Gw/bin/python",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/Users/thomasgarity/.local/share/virtualenvs/predict-ISyLDjXL/bin/python",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/Users/thomasgarity/.local/share/virtualenvs/preprocessor-SAi5-nW2/bin/python",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/usr/local/bin/python3.10",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/usr/local/bin/python3",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/usr/bin/python3",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/Users/thomasgarity/.local/share/virtualenvs/thomas-garity-hw1-Cv3kQ4oY/bin/python",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/Users/thomasgarity/.local/share/virtualenvs/thomas-garity-hw3-I2LWUgER/bin/python",
+      "type": "pythonEnvironment"
+    },
+    {
+      "path": "/Users/thomasgarity/.local/share/virtualenvs/workflow-pwAbPdim/bin/python",
+      "type": "pythonEnvironment"
+    }
+  ]
+}
