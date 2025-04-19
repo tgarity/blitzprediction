@@ -1,2 +1,4 @@
 nfl-big-data-bowl-2025/*
 !.gitignore
+.DS_Store
+nfl-big-data-bowl-2025.zip
